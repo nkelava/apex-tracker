@@ -102,7 +102,7 @@ The backend exposes a single endpoint:
 GET /api/v1/profile/:platform/:gamertag
 ```
 
-- `platform` — `psn`, `xbl` or `origin`
+- `platform` — `psn`, `xbl` or `Origin` (the values the search form sends)
 - `gamertag` — PSN ID, Xbox Live gamertag or Origin ID
 
 Example:
